@@ -41,65 +41,81 @@
 
 <div align="center">
 
-### Languages
+<table>
+<tr><td valign="top" width="33%">
+
+#### Languages
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=python&theme=dark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### AI / ML / Deep Learning
+</td><td valign="top" width="33%">
+
+#### Data & Databases
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas&theme=dark" />
-  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### LLM & Agentic AI
+</td><td valign="top" width="33%">
+
+#### LLM & Agentic AI
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain&theme=dark" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge&logoColor=white" />
 </p>
 
-### Data & Databases
+</td></tr>
+<tr><td valign="top" width="33%">
+
+#### AI / ML / Deep Learning
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bigquery&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgres&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/BigQuery_ML-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge&logoColor=white" />
 </p>
 
-### Deployment & MLOps
+</td><td valign="top" width="33%">
+
+#### Deployment & MLOps
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=docker&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mlflow&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=render&theme=dark" />
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-### DevOps & Tools
+</td><td valign="top" width="33%">
+
+#### DevOps & Tools
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=pydantic&theme=dark" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=railway&theme=dark" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
+
+</td></tr>
+</table>
 
 </div>
 
