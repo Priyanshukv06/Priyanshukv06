@@ -41,50 +41,81 @@
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=python,sql&perline=8&theme=dark" />
+<table>
+<tr><td valign="top" width="33%">
 
-### AI / ML / Deep Learning
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" />&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge&logoColor=white" />
+#### Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-### LLM & Agentic AI
-<p>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logoColor=white" />&nbsp;
+</td><td valign="top" width="33%">
+
+#### Data & Databases
+<p align="center">
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+</td><td valign="top" width="33%">
+
+#### LLM & Agentic AI
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/RAG-FF4B4B?style=for-the-badge&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge&logoColor=white" />
 </p>
 
-### Data & Databases
-<img src="https://skillicons.dev/icons?i=postgres,mysql&perline=8&theme=dark" />
-<p>
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/BigQuery_ML-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+</td></tr>
+<tr><td valign="top" width="33%">
+
+#### AI / ML / Deep Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/XGBoost-006600?style=for-the-badge&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=for-the-badge&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black" /><br/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge&logoColor=white" />
 </p>
 
-### Deployment & MLOps
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,fastapi,gcp,git,github&perline=8&theme=dark" />
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />&nbsp;
+</td><td valign="top" width="33%">
+
+#### Deployment & MLOps
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Cloud_Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/HF_Spaces-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /><br/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
+
+</td><td valign="top" width="33%">
+
+#### DevOps & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
+</p>
+
+</td></tr>
+</table>
 
 </div>
 
