@@ -128,7 +128,8 @@
 <td width="50%" valign="top">
 
 ### [🏏 Stumped-AI](https://github.com/Priyanshukv06/stumped-ai)
-Multi-Agent IPL stat assistant with **anti-hallucination TAG system**. 3 specialized ReAct agents orchestrated via LangGraph to translate natural language → BigQuery SQL → Plotly charts.
+Multi-Agent IPL stat assistant with **anti-hallucination TAG system**. 3 specialized ReAct agents orchestrated via LangGraph to translate natural language → BigQuery SQL → Plotly charts.<br/>
+🌐 **[Live Demo](https://stumped-ai.onrender.com/)**
 
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -139,7 +140,8 @@ Multi-Agent IPL stat assistant with **anti-hallucination TAG system**. 3 special
 <td width="50%" valign="top">
 
 ### [📈 Quant Research Copilot](https://github.com/Priyanshukv06/Quant-Research-Copilot)
-6-agent LangGraph pipeline for natural language stock screening. Self-healing SQL generation with NVIDIA NIM + Groq dual providers & automatic failover.
+6-agent LangGraph pipeline for natural language stock screening. Self-healing SQL generation with NVIDIA NIM + Groq dual providers & automatic failover.<br/>
+🌐 **[Live Demo](https://stock-screener-private.onrender.com/)**
 
 <p>
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
@@ -154,7 +156,8 @@ Multi-Agent IPL stat assistant with **anti-hallucination TAG system**. 3 special
 <td width="50%" valign="top">
 
 ### [💹 Quantamental Swing Trading](https://github.com/Priyanshukv06/Quantamental_SwingTrading_Public)
-4 LightGBM models forecasting 90-day stock prices with 22+ engineered features. Fully automated ML pipelines on GCP with Cloud Build CI/CD.
+4 LightGBM models forecasting 90-day stock prices with 22+ engineered features. Fully automated ML pipelines on GCP with Cloud Build CI/CD.<br/>
+🌐 **[Live Demo](https://quantamental-swing-trading-private.vercel.app/)**
 
 <p>
   <img src="https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logoColor=white" />
@@ -166,7 +169,8 @@ Multi-Agent IPL stat assistant with **anti-hallucination TAG system**. 3 special
 <td width="50%" valign="top">
 
 ### [🛡️ ToxGuard](https://github.com/Priyanshukv06/ToxGuard_Multi-Label_Content_Flagger)
-Dual-pipeline NLP: Multi-Label + BiLSTM cascade with Focal Loss. **0.82 macro F1** across 6 toxicity categories with 5 configurable sensitivity presets.
+Dual-pipeline NLP: Multi-Label + BiLSTM cascade with Focal Loss. **0.82 macro F1** across 6 toxicity categories with 5 configurable sensitivity presets.<br/>
+🌐 **[Live Demo](https://toxguard-06.streamlit.app/)**
 
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
@@ -181,7 +185,8 @@ Dual-pipeline NLP: Multi-Label + BiLSTM cascade with Focal Loss. **0.82 macro F1
 <td width="50%" valign="top">
 
 ### [🏥 CareCost AI](https://github.com/Priyanshukv06/cost-estimation)
-Hospital cost prediction at admission: 8 HistGradientBoosting models on **420K+ NY SPARCS records**. Dynamic what-if scenario analysis & risk classification.
+Hospital cost prediction at admission: 8 HistGradientBoosting models on **420K+ NY SPARCS records**. Dynamic what-if scenario analysis & risk classification.<br/>
+🌐 **[Live Demo](https://cost-estimation-06.streamlit.app/)**
 
 <p>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
