@@ -41,27 +41,20 @@
 
 <div align="center">
 
-<table>
-<tr><td valign="top" width="33%">
-
-#### Languages
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-</td><td valign="top" width="33%">
-
-#### Data & Databases
+### Data & Databases
 <p align="center">
   <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-</td><td valign="top" width="33%">
-
-#### LLM & Agentic AI
+### LLM & Agentic AI
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /><br/>
@@ -71,10 +64,7 @@
   <img src="https://img.shields.io/badge/Agentic_AI-6C63FF?style=for-the-badge&logoColor=white" />
 </p>
 
-</td></tr>
-<tr><td valign="top" width="33%">
-
-#### AI / ML / Deep Learning
+### AI / ML / Deep Learning
 <p align="center">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br/>
@@ -88,9 +78,7 @@
   <img src="https://img.shields.io/badge/SHAP-1E88E5?style=for-the-badge&logoColor=white" />
 </p>
 
-</td><td valign="top" width="33%">
-
-#### Deployment & MLOps
+### Deployment & MLOps
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /><br/>
@@ -103,9 +91,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
-</td><td valign="top" width="33%">
-
-#### DevOps & Tools
+### DevOps & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br/>
@@ -113,9 +99,6 @@
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" /><br/>
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
 </p>
-
-</td></tr>
-</table>
 
 </div>
 
